@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am riyad abbou, a final-year Computer Science Engineering student at the Higher School of Computer Science, Sidi Bel Abbes. I specialize in Artificial Intelligence and Data Science and i am passionate about AI and Web Development. I'm always eager to expand my skills and learn more.
+I am Riyad abbou, a final-year Computer Science Engineering student at the Higher School of Computer Science, Algeria. I specialize in Artificial Intelligence and Data Science and i am passionate about AI and Web Development. I'm always eager to expand my skills and learn more.
 
 
 ## 🌐 Socials:
